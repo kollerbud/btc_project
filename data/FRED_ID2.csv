@@ -1,0 +1,505 @@
+﻿VAR_ID,Description,,VAR_FRED_ID
+D_AB1020AAAMT,"Total Value of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB1020AAAMT
+D_AB1020AAVOL,"Number of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB1020AAVOL
+D_AB14AAAMT,"Total Value of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB14AAAMT
+D_AB14AAVOL,"Number of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB14AAVOL
+D_AB2140AAAMT,"Total Value of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB2140AAAMT
+D_AB2140AAVOL,"Number of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB2140AAVOL
+D_AB4180AAAMT,"Total Value of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB4180AAAMT
+D_AB4180AAVOL,"Number of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB4180AAVOL
+D_AB59AAAMT,"Total Value of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB59AAAMT
+D_AB59AAVOL,"Number of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_AB59AAVOL
+D_ABGT80AAAMT,"Total Value of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_ABGT80AAAMT
+D_ABGT80AAVOL,"Number of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the AA Asset-Backed Commercial Paper Rates",,D_FRED_ABGT80AAVOL
+D_DEXBZUS,Brazilian Reals to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXBZUS
+D_DEXCAUS,Canadian Dollars to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXCAUS
+D_DEXCHUS,Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXCHUS
+D_DEXDNUS,Danish Kroner to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXDNUS
+D_DEXHKUS,Hong Kong Dollars to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXHKUS
+D_DEXINUS,Indian Rupees to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXINUS
+D_DEXJPUS,Japanese Yen to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXJPUS
+D_DEXKOUS,South Korean Won to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXKOUS
+D_DEXMAUS,Malaysian Ringgit to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXMAUS
+D_DEXMXUS,Mexican Pesos to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXMXUS
+D_DEXNOUS,Norwegian Kroner to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXNOUS
+D_DEXSDUS,Swedish Kronor to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXSDUS
+D_DEXSFUS,South African Rand to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXSFUS
+D_DEXSIUS,Singapore Dollars to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXSIUS
+D_DEXSLUS,Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXSLUS
+D_DEXSZUS,Swiss Francs to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXSZUS
+D_DEXTAUS,Taiwan Dollars to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXTAUS
+D_DEXTHUS,Thai Baht to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXTHUS
+D_DEXUSAL,U.S. Dollars to Australian Dollar Spot Exchange Rate,,D_FRED_DEXUSAL
+D_DEXUSEU,U.S. Dollars to Euro Spot Exchange Rate,,D_FRED_DEXUSEU
+D_DEXUSNZ,U.S. Dollars to New Zealand Dollar Spot Exchange Rate,,D_FRED_DEXUSNZ
+D_DEXUSUK,U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate,,D_FRED_DEXUSUK
+D_DEXVZUS,Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate,,D_FRED_DEXVZUS
+D_DTWEXAFEGS,Nominal Advanced Foreign Economies U.S. Dollar Index,,D_FRED_DTWEXAFEGS
+D_DTWEXBGS,Nominal Broad U.S. Dollar Index,,D_FRED_DTWEXBGS
+D_DTWEXEMEGS,Nominal Emerging Market Economies U.S. Dollar Index,,D_FRED_DTWEXEMEGS
+D_FIN1020AAAMT,"Total Value of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN1020AAAMT
+D_FIN1020AAVOL,"Number of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN1020AAVOL
+D_FIN14AAAMT,"Total Value of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN14AAAMT
+D_FIN14AAVOL,"Number of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN14AAVOL
+D_FIN2140AAAMT,"Total Value of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN2140AAAMT
+D_FIN2140AAVOL,"Number of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN2140AAVOL
+D_FIN4180AAAMT,"Total Value of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN4180AAAMT
+D_FIN4180AAVOL,"Number of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN4180AAVOL
+D_FIN59AAAMT,"Total Value of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN59AAAMT
+D_FIN59AAVOL,"Number of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FIN59AAVOL
+D_FINGT80AAAMT,"Total Value of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FINGT80AAAMT
+D_FINGT80AAVOL,"Number of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the AA Financial Commercial Paper Rates",,D_FRED_FINGT80AAVOL
+D_MKT1020MKTAMT,Total Value of Commercial Paper Issues with a Maturity Between 10 and20 Days,,D_FRED_MKT1020MKTAMT
+D_MKT1020MKTVOL,Number of Commercial Paper Issues with a Maturity Between 10 and 20Days,,D_FRED_MKT1020MKTVOL
+D_MKT14MKTAMT,Total Value of Commercial Paper Issues with a Maturity Between 1 and 4Days,,D_FRED_MKT14MKTAMT
+D_MKT14MKTVOL,Number of Commercial Paper Issues with a Maturity Between 1 and 4 Days,,D_FRED_MKT14MKTVOL
+D_MKT2140MKTAMT,Total Value of Issuers of Commercial Paper with a Maturity Between 21and 40 Days,,D_FRED_MKT2140MKTAMT
+D_MKT2140MKTVOL,Number of Commercial Paper Issues with a Maturity Between 21 and 40Days,,D_FRED_MKT2140MKTVOL
+D_MKT4180MKTAMT,Total Value of Issuers of Commercial Paper with a Maturity Between 41and 80 Days,,D_FRED_MKT4180MKTAMT
+D_MKT4180MKTVOL,Number of Commercial Paper Issues with a Maturity Between 41 and 80Days,,D_FRED_MKT4180MKTVOL
+D_MKT59MKTAMT,Total Value of Issuers of Commercial Paper with a Maturity Between 5and 9 Days,,D_FRED_MKT59MKTAMT
+D_MKT59MKTVOL,Number of Commercial Paper Issues with a Maturity Between 5 and 9 Days,,D_FRED_MKT59MKTVOL
+D_MKTGT80MKTAMT,Total Value of Issuers of Commercial Paper with a Maturity GreaterThan 80 Days,,D_FRED_MKTGT80MKTAMT
+D_MKTGT80MKTVOL,Number of Commercial Paper Issues with a Maturity Greater Than 80 Days,,D_FRED_MKTGT80MKTVOL
+D_NONFIN1020A2P2AMT,"Total Value of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN1020A2P2AMT
+D_NONFIN1020A2P2VOL,"Number of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN1020A2P2VOL
+D_NONFIN1020AAAMT,"Total Value of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN1020AAAMT
+D_NONFIN1020AAVOL,"Number of Issues, with a Maturity Between 10 and 20 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN1020AAVOL
+D_NONFIN14A2P2AMT,"Total Value of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN14A2P2AMT
+D_NONFIN14A2P2VOL,"Number of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN14A2P2VOL
+D_NONFIN14AAAMT,"Total Value of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN14AAAMT
+D_NONFIN14AAVOL,"Number of Issues, with a Maturity Between 1 and 4 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN14AAVOL
+D_NONFIN2140A2P2AMT,"Total Value of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN2140A2P2AMT
+D_NONFIN2140A2P2VOL,"Number of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN2140A2P2VOL
+D_NONFIN2140AAAMT,"Total Value of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN2140AAAMT
+D_NONFIN2140AAVOL,"Number of Issues, with a Maturity Between 21 and 40 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN2140AAVOL
+D_NONFIN4180A2P2AMT,"Total Value of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN4180A2P2AMT
+D_NONFIN4180A2P2VOL,"Number of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN4180A2P2VOL
+D_NONFIN4180AAAMT,"Total Value of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN4180AAAMT
+D_NONFIN4180AAVOL,"Number of Issues, with a Maturity Between 41 and 80 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN4180AAVOL
+D_NONFIN59A2P2AMT,"Total Value of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN59A2P2AMT
+D_NONFIN59A2P2VOL,"Number of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN59A2P2VOL
+D_NONFIN59AAAMT,"Total Value of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN59AAAMT
+D_NONFIN59AAVOL,"Number of Issues, with a Maturity Between 5 and 9 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFIN59AAVOL
+D_NONFINGT80A2P2AMT,"Total Value of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFINGT80A2P2AMT
+D_NONFINGT80A2P2VOL,"Number of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the A2/P2 Nonfinancial Commercial Paper Rates",,D_FRED_NONFINGT80A2P2VOL
+D_NONFINGT80AAAMT,"Total Value of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFINGT80AAAMT
+D_NONFINGT80AAVOL,"Number of Issues, with a Maturity Greater Than 80 Days, Used inCalculating the AA Nonfinancial Commercial Paper Rates",,D_FRED_NONFINGT80AAVOL
+D_DJCA,Dow Jones Composite Average,,D_FRED_DJCA
+D_DJIA,Dow Jones Industrial Average,,D_FRED_DJIA
+D_DJTA,Dow Jones Transportation Average,,D_FRED_DJTA
+D_DJUA,Dow Jones Utility Average,,D_FRED_DJUA
+D_EVZCLS,CBOE EuroCurrency ETF Volatility Index,,D_FRED_EVZCLS
+D_GVZCLS,CBOE Gold ETF Volatility Index,,D_FRED_GVZCLS
+D_NASDAQ100,NASDAQ 100 Index,,D_FRED_NASDAQ100
+D_NASDAQCOM,NASDAQ Composite Index,,D_FRED_NASDAQCOM
+D_OVXCLS,CBOE Crude Oil ETF Volatility Index,,D_FRED_OVXCLS
+D_RVXCLS,CBOE Russell 2000 Volatility Index,,D_FRED_RVXCLS
+D_SP500,S&P 500,,D_FRED_SP500
+D_VIXCLS,CBOE Volatility Index: VIX,,D_FRED_VIXCLS
+D_VXAPLCLS,CBOE Equity VIX on Apple,,D_FRED_VXAPLCLS
+D_VXAZNCLS,CBOE Equity VIX on Amazon,,D_FRED_VXAZNCLS
+D_VXDCLS,CBOE DJIA Volatility Index,,D_FRED_VXDCLS
+D_VXEEMCLS,CBOE Emerging Markets ETF Volatility Index,,D_FRED_VXEEMCLS
+D_VXEWZCLS,CBOE Brazil ETF Volatility Index,,D_FRED_VXEWZCLS
+D_VXGOGCLS,CBOE Equity VIX on Google,,D_FRED_VXGOGCLS
+D_VXGSCLS,CBOE Equity VIX on Goldman Sachs,,D_FRED_VXGSCLS
+D_VXIBMCLS,CBOE Equity VIX on IBM,,D_FRED_VXIBMCLS
+D_VXNCLS,CBOE NASDAQ 100 Volatility Index,,D_FRED_VXNCLS
+D_VXVCLS,CBOE S&P 500 3-Month Volatility Index,,D_FRED_VXVCLS
+D_WILL2500IND,Wilshire 2500 Total Market Index,,D_FRED_WILL2500IND
+D_WILL2500INDGR,Wilshire 2500 Growth Total Market Index,,D_FRED_WILL2500INDGR
+D_WILL2500INDVAL,Wilshire 2500 Value Total Market Index,,D_FRED_WILL2500INDVAL
+D_WILL2500PR,Wilshire 2500 Price Index,,D_FRED_WILL2500PR
+D_WILL2500PRGR,Wilshire 2500 Growth Price Index,,D_FRED_WILL2500PRGR
+D_WILL2500PRVAL,Wilshire 2500 Value Price Index,,D_FRED_WILL2500PRVAL
+D_WILL4500IND,Wilshire 4500 Total Market Index,,D_FRED_WILL4500IND
+D_WILL4500PR,Wilshire 4500 Price Index,,D_FRED_WILL4500PR
+D_WILL5000IND,Wilshire 5000 Total Market Index,,D_FRED_WILL5000IND
+D_WILL5000PR,Wilshire 5000 Price Index,,D_FRED_WILL5000PR
+D_WILLLRGCAP,Wilshire US Large-Cap Total Market Index,,D_FRED_WILLLRGCAP
+D_WILLLRGCAPGR,Wilshire US Large-Cap Growth Total Market Index,,D_FRED_WILLLRGCAPGR
+D_WILLLRGCAPGRPR,Wilshire US Large-Cap Growth Price Index,,D_FRED_WILLLRGCAPGRPR
+D_WILLLRGCAPPR,Wilshire US Large-Cap Price Index,,D_FRED_WILLLRGCAPPR
+D_WILLLRGCAPVAL,Wilshire US Large-Cap Value Total Market Index,,D_FRED_WILLLRGCAPVAL
+D_WILLLRGCAPVALPR,Wilshire US Large-Cap Value Price Index,,D_FRED_WILLLRGCAPVALPR
+D_WILLMICROCAP,Wilshire US Micro-Cap Total Market Index,,D_FRED_WILLMICROCAP
+D_WILLMICROCAPPR,Wilshire US Micro-Cap Price Index,,D_FRED_WILLMICROCAPPR
+D_WILLMIDCAP,Wilshire US Mid-Cap Total Market Index,,D_FRED_WILLMIDCAP
+D_WILLMIDCAPGR,Wilshire US Mid-Cap Growth Total Market Index,,D_FRED_WILLMIDCAPGR
+D_WILLMIDCAPGRPR,Wilshire US Mid-Cap Growth Price Index,,D_FRED_WILLMIDCAPGRPR
+D_WILLMIDCAPPR,Wilshire US Mid-Cap Price Index,,D_FRED_WILLMIDCAPPR
+D_WILLMIDCAPVAL,Wilshire US Mid-Cap Value Total Market Index,,D_FRED_WILLMIDCAPVAL
+D_WILLMIDCAPVALPR,Wilshire US Mid-Cap Value Price Index,,D_FRED_WILLMIDCAPVALPR
+D_WILLREITIND,Wilshire US Real Estate Investment Trust Total Market Index (WilshireUS REIT),,D_FRED_WILLREITIND
+D_WILLREITPR,Wilshire US Real Estate Investment Trust Price Index (Wilshire USREIT),,D_FRED_WILLREITPR
+D_WILLRESIND,Wilshire US Real Estate Securities Total Market Index (Wilshire USRESI),,D_FRED_WILLRESIND
+D_WILLRESIPR,Wilshire US Real Estate Securities Price Index (Wilshire US RESI),,D_FRED_WILLRESIPR
+D_WILLSMLCAP,Wilshire US Small-Cap Total Market Index,,D_FRED_WILLSMLCAP
+D_WILLSMLCAPGR,Wilshire US Small-Cap Growth Total Market Index,,D_FRED_WILLSMLCAPGR
+D_WILLSMLCAPGRPR,Wilshire US Small-Cap Growth Price Index,,D_FRED_WILLSMLCAPGRPR
+D_WILLSMLCAPPR,Wilshire US Small-Cap Price Index,,D_FRED_WILLSMLCAPPR
+D_WILLSMLCAPVAL,Wilshire US Small-Cap Value Total Market Index,,D_FRED_WILLSMLCAPVAL
+D_WILLSMLCAPVALPR,Wilshire US Small-Cap Value Price Index,,D_FRED_WILLSMLCAPVALPR
+M_AAA,Moody's Seasoned Aaa Corporate Bond Yield,,M_FRED_AAA
+M_AAA10YM,Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-YearTreasury Constant Maturity,,M_FRED_AAA10YM
+M_ADPMNUSNERNSA,Total Nonfarm Private Payroll Employment,,M_FRED_ADPMNUSNERNSA
+M_APU0000702111,"Average Price: Bread, White, Pan (Cost per Pound/453.6 Grams) in U.S.City Average",,M_FRED_APU0000702111
+M_APU0000703112,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) inU.S. City Average",,M_FRED_APU0000703112
+M_APU0000708111,"Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. CityAverage",,M_FRED_APU0000708111
+M_APU000072610,Average Price: Electricity per Kilowatt-Hour in U.S. City Average,,M_FRED_APU000072610
+M_APU0000FF1101,"Average Price: Chicken Breast, Boneless (Cost per Pound/453.6 Grams)in U.S. City Average",,M_FRED_APU0000FF1101
+M_BAA,Moody's Seasoned Baa Corporate Bond Yield,,M_FRED_BAA
+M_BAA10YM,Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-YearTreasury Constant Maturity,,M_FRED_BAA10YM
+M_BOGMBASE,Monetary Base; Total,,M_FRED_BOGMBASE
+M_BOGMBBM,Monetary Base; Reserve Balances,,M_FRED_BOGMBBM
+M_BUSLOANSNSA,"Commercial and Industrial Loans, All Commercial Banks",,M_FRED_BUSLOANSNSA
+M_CCLACBM027NBOG,"Consumer Loans: Credit Cards and Other Revolving Plans, All CommercialBanks",,M_FRED_CCLACBM027NBOG
+M_CEU0500000001,"All Employees, Total Private",,M_FRED_CEU0500000001
+M_CEU0500000002,"Average Weekly Hours of All Employees, Total Private",,M_FRED_CEU0500000002
+M_CEU0500000003,"Average Hourly Earnings of All Employees, Total Private",,M_FRED_CEU0500000003
+M_CEU0500000008,"Average Hourly Earnings of Production and Nonsupervisory Employees,Total Private",,M_FRED_CEU0500000008
+M_CEU1000000001,"All Employees, Mining and Logging",,M_FRED_CEU1000000001
+M_CEU1021100001,"All Employees, Oil and Gas Extraction",,M_FRED_CEU1021100001
+M_CEU2000000001,"All Employees, Construction",,M_FRED_CEU2000000001
+M_CEU3000000001,"All Employees, Manufacturing",,M_FRED_CEU3000000001
+M_CEU3000000003,"Average Hourly Earnings of All Employees, Manufacturing",,M_FRED_CEU3000000003
+M_CEU3000000007,"Average Weekly Hours of Production and Nonsupervisory Employees,Manufacturing",,M_FRED_CEU3000000007
+M_CEU4142000001,"All Employees, Wholesale Trade",,M_FRED_CEU4142000001
+M_CEU4200000001,"All Employees, Retail Trade",,M_FRED_CEU4200000001
+M_CEU4300000001,"All Employees, Transportation and Warehousing",,M_FRED_CEU4300000001
+M_CEU4348100001,"All Employees, Air Transportation",,M_FRED_CEU4348100001
+M_CEU4348400001,"All Employees, Truck Transportation",,M_FRED_CEU4348400001
+M_CEU5000000001,"All Employees, Information",,M_FRED_CEU5000000001
+M_CEU5500000001,"All Employees, Financial Activities",,M_FRED_CEU5500000001
+M_CEU6000000001,"All Employees, Professional and Business Services",,M_FRED_CEU6000000001
+M_CEU6500000001,"All Employees, Private Education and Health Services",,M_FRED_CEU6500000001
+M_CEU7000000001,"All Employees, Leisure and Hospitality",,M_FRED_CEU7000000001
+M_CEU8000000001,"All Employees, Other Services",,M_FRED_CEU8000000001
+M_CEU9000000001,"All Employees, Government",,M_FRED_CEU9000000001
+M_CNP16OV,Population Level,,M_FRED_CNP16OV
+M_CONSUMERNSA,"Consumer Loans, All Commercial Banks",,M_FRED_CONSUMERNSA
+M_CPIAPPNS,Consumer Price Index for All Urban Consumers: Apparel in U.S. CityAverage,,M_FRED_CPIAPPNS
+M_CPIAUCNS,Consumer Price Index for All Urban Consumers: All Items in U.S. CityAverage,,M_FRED_CPIAUCNS
+M_CPIEDUNS,Consumer Price Index for All Urban Consumers: Education andCommunication in U.S. City Average,,M_FRED_CPIEDUNS
+M_CPIENGNS,Consumer Price Index for All Urban Consumers: Energy in U.S. CityAverage,,M_FRED_CPIENGNS
+M_CPILFENS,Consumer Price Index for All Urban Consumers: All Items Less Food andEnergy in U.S. City Average,,M_FRED_CPILFENS
+M_CPIMEDNS,Consumer Price Index for All Urban Consumers: Medical Care in U.S.City Average,,M_FRED_CPIMEDNS
+M_CPIUFDNS,Consumer Price Index for All Urban Consumers: Food in U.S. CityAverage,,M_FRED_CPIUFDNS
+M_CREACBM027NBOG,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks",,M_FRED_CREACBM027NBOG
+M_CSUSHPINSA,S&P/Case-Shiller U.S. National Home Price Index,,M_FRED_CSUSHPINSA
+M_CURRCIR,Currency in Circulation,,M_FRED_CURRCIR
+M_CUUR0000SA0R,Consumer Price Index for All Urban Consumers: Purchasing Power of theConsumer Dollar in U.S. City Average,,M_FRED_CUUR0000SA0R
+M_CUUR0000SAF11,Consumer Price Index for All Urban Consumers: Food at Home in U.S.City Average,,M_FRED_CUUR0000SAF11
+M_CUUR0000SAH1,Consumer Price Index for All Urban Consumers: Shelter in U.S. CityAverage,,M_FRED_CUUR0000SAH1
+M_CUUR0000SAM1,Consumer Price Index for All Urban Consumers: Medical Care Commoditiesin U.S. City Average,,M_FRED_CUUR0000SAM1
+M_CUUR0000SAM2,Consumer Price Index for All Urban Consumers: Medical Care Services inU.S. City Average,,M_FRED_CUUR0000SAM2
+M_CUUR0000SASLE,Consumer Price Index for All Urban Consumers: Services Less EnergyServices in U.S. City Average,,M_FRED_CUUR0000SASLE
+M_CUUR0000SEFV,Consumer Price Index for All Urban Consumers: Food Away from Home inU.S. City Average,,M_FRED_CUUR0000SEFV
+M_CUUR0000SEHA,Consumer Price Index for All Urban Consumers: Rent of PrimaryResidence in U.S. City Average,,M_FRED_CUUR0000SEHA
+M_CUUR0000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in U.S. CityAverage,,M_FRED_CUUR0000SEHF01
+M_CUUR0000SETA01,Consumer Price Index for All Urban Consumers: New Vehicles in U.S.City Average,,M_FRED_CUUR0000SETA01
+M_CUUR0000SETA02,Consumer Price Index for All Urban Consumers: Used Cars and Trucks inU.S. City Average,,M_FRED_CUUR0000SETA02
+M_CUUR0000SETB01,Consumer Price Index for All Urban Consumers: Gasoline (All Types) inU.S. City Average,,M_FRED_CUUR0000SETB01
+M_CUUR0000SETG01,Consumer Price Index for All Urban Consumers: Airline Fares in U.S.City Average,,M_FRED_CUUR0000SETG01
+M_CWUR0000SA0,Consumer Price Index for All Urban Wage Earners and Clerical Workers:All Items in U.S. City Average,,M_FRED_CWUR0000SA0
+M_DAUPNSA,Domestic Auto Production,,M_FRED_DAUPNSA
+M_DPSACBM027NBOG,"Deposits, All Commercial Banks",,M_FRED_DPSACBM027NBOG
+M_EXBZUS,Brazilian Reals to U.S. Dollar Spot Exchange Rate,,M_FRED_EXBZUS
+M_EXCAUS,Canadian Dollars to U.S. Dollar Spot Exchange Rate,,M_FRED_EXCAUS
+M_EXCHUS,Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,,M_FRED_EXCHUS
+M_EXDNUS,Danish Kroner to U.S. Dollar Spot Exchange Rate,,M_FRED_EXDNUS
+M_EXHKUS,Hong Kong Dollars to U.S. Dollar Spot Exchange Rate,,M_FRED_EXHKUS
+M_EXINUS,Indian Rupees to U.S. Dollar Spot Exchange Rate,,M_FRED_EXINUS
+M_EXJPUS,Japanese Yen to U.S. Dollar Spot Exchange Rate,,M_FRED_EXJPUS
+M_EXKOUS,South Korean Won to U.S. Dollar Spot Exchange Rate,,M_FRED_EXKOUS
+M_EXMAUS,Malaysian Ringgit to U.S. Dollar Spot Exchange Rate,,M_FRED_EXMAUS
+M_EXMXUS,Mexican Pesos to U.S. Dollar Spot Exchange Rate,,M_FRED_EXMXUS
+M_EXNOUS,Norwegian Kroner to U.S. Dollar Spot Exchange Rate,,M_FRED_EXNOUS
+M_EXPINF10YR,10-Year Expected Inflation,,M_FRED_EXPINF10YR
+M_EXPINF1YR,1-Year Expected Inflation,,M_FRED_EXPINF1YR
+M_EXPINF2YR,2-Year Expected Inflation,,M_FRED_EXPINF2YR
+M_EXSDUS,Swedish Kronor to U.S. Dollar Spot Exchange Rate,,M_FRED_EXSDUS
+M_EXSFUS,South African Rand to U.S. Dollar Spot Exchange Rate,,M_FRED_EXSFUS
+M_EXSIUS,Singapore Dollars to U.S. Dollar Spot Exchange Rate,,M_FRED_EXSIUS
+M_EXSLUS,Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate,,M_FRED_EXSLUS
+M_EXSZUS,Swiss Francs to U.S. Dollar Spot Exchange Rate,,M_FRED_EXSZUS
+M_EXTAUS,Taiwan Dollars to U.S. Dollar Spot Exchange Rate,,M_FRED_EXTAUS
+M_EXTHUS,Thai Baht to U.S. Dollar Spot Exchange Rate,,M_FRED_EXTHUS
+M_EXUSAL,U.S. Dollars to Australian Dollar Spot Exchange Rate,,M_FRED_EXUSAL
+M_EXUSEU,U.S. Dollars to Euro Spot Exchange Rate,,M_FRED_EXUSEU
+M_EXUSNZ,U.S. Dollars to New Zealand Dollar Spot Exchange Rate,,M_FRED_EXUSNZ
+M_EXUSUK,U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate,,M_FRED_EXUSUK
+M_EXVZUS,Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate,,M_FRED_EXVZUS
+M_FEDFUNDS,Federal Funds Effective Rate,,M_FRED_FEDFUNDS
+M_FII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity,Quoted on an Investment Basis, Inflation-Indexed",,M_FRED_FII10
+M_FII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity,Quoted on an Investment Basis, Inflation-Indexed",,M_FRED_FII30
+M_FII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity,Quoted on an Investment Basis, Inflation-Indexed",,M_FRED_FII5
+M_GS1,"Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS1
+M_GS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS10
+M_GS1M,"Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS1M
+M_GS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS2
+M_GS20,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS20
+M_GS3,"Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS3
+M_GS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS30
+M_GS3M,"Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS3M
+M_GS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS5
+M_GS6M,"Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS6M
+M_GS7,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity,Quoted on an Investment Basis",,M_FRED_GS7
+M_HOUST1FNSA,New Privately-Owned Housing Units Started: Single-Family Units,,M_FRED_HOUST1FNSA
+M_HOUST5FNSA,New Privately-Owned Housing Units Started: Units in Buildings with 5Units or More,,M_FRED_HOUST5FNSA
+M_HOUSTNSA,New Privately-Owned Housing Units Started: Total Units,,M_FRED_HOUSTNSA
+M_HQMCB10YR,10-Year High Quality Market (HQM) Corporate Bond Spot Rate,,M_FRED_HQMCB10YR
+M_HSN1FNSA,New One Family Houses Sold: United States,,M_FRED_HSN1FNSA
+M_HTRUCKSNSA,Motor Vehicle Retail Sales: Heavy Weight Trucks,,M_FRED_HTRUCKSNSA
+M_INTDSRUSM193N,"Interest Rates, Discount Rate for United States",,M_FRED_INTDSRUSM193N
+M_IPB50001N,Industrial Production: Total Index,,M_FRED_IPB50001N
+M_IPGMFN,Industrial Production: Manufacturing (NAICS),,M_FRED_IPGMFN
+M_IRLTLT01USM156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main(Including Benchmark) for United States,,M_FRED_IRLTLT01USM156N
+M_JTUJOL,Job Openings: Total Nonfarm,,M_FRED_JTUJOL
+M_JTULDR,Layoffs and Discharges: Total Nonfarm,,M_FRED_JTULDR
+M_JTUQUR,Quits: Total Nonfarm,,M_FRED_JTUQUR
+M_LFWA64TTUSM647N,Working Age Population: Aged 15-64: All Persons for United States,,M_FRED_LFWA64TTUSM647N
+M_LNU01000000,Civilian Labor Force Level,,M_FRED_LNU01000000
+M_LNU01300000,Labor Force Participation Rate,,M_FRED_LNU01300000
+M_LNU01300060,Labor Force Participation Rate - 25-54 Yrs.,,M_FRED_LNU01300060
+M_LNU02000000,Employment Level,,M_FRED_LNU02000000
+M_LNU02300000,Employment-Population Ratio,,M_FRED_LNU02300000
+M_LNU03000000,Unemployment Level,,M_FRED_LNU03000000
+M_LNU04000006,Unemployment Rate - Black or African American,,M_FRED_LNU04000006
+M_LOANINVNSA,"Bank Credit, All Commercial Banks",,M_FRED_LOANINVNSA
+M_LOANSNSA,"Loans and Leases in Bank Credit, All Commercial Banks",,M_FRED_LOANSNSA
+M_M1NS,M1,,M_FRED_M1NS
+M_M2NS,M2,,M_FRED_M2NS
+M_MARTSMPCSM44X72USN,Advance Retail Sales: Retail Trade and Food Services,,M_FRED_MARTSMPCSM44X72USN
+M_MBCURRCIR,Monetary Base; Currency in Circulation,,M_FRED_MBCURRCIR
+M_MCOILWTICO,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",,M_FRED_MCOILWTICO
+M_MHHNGSP,Henry Hub Natural Gas Spot Price,,M_FRED_MHHNGSP
+M_MICH,University of Michigan: Inflation Expectation,,M_FRED_MICH
+M_MPCREDIT,Discount Window Primary Credit Rate,,M_FRED_MPCREDIT
+M_MPRIME,Bank Prime Loan Rate,,M_FRED_MPRIME
+M_MSACSRNSA,Monthly Supply of New Houses in the United States,,M_FRED_MSACSRNSA
+M_MSPNHSUS,Median Sales Price for New Houses Sold in the United States,,M_FRED_MSPNHSUS
+M_MTSDS133FMS,Federal Surplus or Deficit [-],,M_FRED_MTSDS133FMS
+M_MYAGM2USM052N,M2 for United States,,M_FRED_MYAGM2USM052N
+M_PAYNSA,"All Employees, Total Nonfarm",,M_FRED_PAYNSA
+M_PCU221122221122,Producer Price Index by Industry: Electric Power Distribution,,M_FRED_PCU221122221122
+M_PCU311311,Producer Price Index by Industry: Food Manufacturing,,M_FRED_PCU311311
+M_PCU311421311421,Producer Price Index by Industry: Fruit and Vegetable Canning,,M_FRED_PCU311421311421
+M_PCU324191324191,Producer Price Index by Industry: Petroleum Lubricating Oil and GreaseManufacturing,,M_FRED_PCU324191324191
+M_PCU325120325120,Producer Price Index by Industry: Industrial Gas Manufacturing,,M_FRED_PCU325120325120
+M_PCU325199325199P,Producer Price Index by Industry: All Other Basic Organic ChemicalManufacturing: Primary Products,,M_FRED_PCU325199325199P
+M_PCU325211325211,Producer Price Index by Industry: Plastics Material and ResinManufacturing,,M_FRED_PCU325211325211
+M_PCU325212325212P,Producer Price Index by Industry: Synthetic Rubber Manufacturing:Primary Products,,M_FRED_PCU325212325212P
+M_PCU325325,Producer Price Index by Industry: Chemical Manufacturing,,M_FRED_PCU325325
+M_PCU325412325412,Producer Price Index by Industry: Pharmaceutical PreparationManufacturing,,M_FRED_PCU325412325412
+M_PCU325510325510,Producer Price Index by Industry: Paint and Coating Manufacturing,,M_FRED_PCU325510325510
+M_PCU32733273,Producer Price Index by Industry: Cement and Concrete ProductManufacturing,,M_FRED_PCU32733273
+M_PCU331110331110,Producer Price Index by Industry: Iron and Steel Mills and FerroalloyManufacturing,,M_FRED_PCU331110331110
+M_PCU331315331315,"Producer Price Index by Industry: Aluminum Sheet, Plate, and FoilManufacturing",,M_FRED_PCU331315331315
+M_PCU332510332510,Producer Price Index by Industry: Hardware Manufacturing,,M_FRED_PCU332510332510
+M_PCU332618332618,Producer Price Index by Industry: Other Fabricated Wire ProductManufacturing,,M_FRED_PCU332618332618
+M_PCU332911332911,Producer Price Index by Industry: Industrial Valve Manufacturing,,M_FRED_PCU332911332911
+M_PCU332991332991,Producer Price Index by Industry: Ball and Roller BearingManufacturing,,M_FRED_PCU332991332991
+M_PCU333120333120,Producer Price Index by Industry: Construction Machinery Manufacturing,,M_FRED_PCU333120333120
+M_PCU333132333132,Producer Price Index by Industry: Oil and Gas Field Machinery andEquipment Manufacturing,,M_FRED_PCU333132333132
+M_PCU333611333611,Producer Price Index by Industry: Turbine and Turbine Generator SetUnits Manufacturing,,M_FRED_PCU333611333611
+M_PCU33441K33441K,"Producer Price Index by Industry: Capacitor, Resistor, Coil,Transformer, and Other Inductor Manufacturing",,M_FRED_PCU33441K33441K
+M_PCU33443344,Producer Price Index by Industry: Semiconductor and Other ElectronicComponent Manufacturing,,M_FRED_PCU33443344
+M_PCU335311335311,Producer Price Index by Industry: Electric Power and SpecialtyTransformer Manufacturing,,M_FRED_PCU335311335311
+M_PCU335313335313,Producer Price Index by Industry: Switchgear and Switchboard ApparatusManufacturing,,M_FRED_PCU335313335313
+M_PCU335931335931,Producer Price Index by Industry: Current-Carrying Wiring DeviceManufacturing,,M_FRED_PCU335931335931
+M_PCU336110336110,"Producer Price Index by Industry: Automobile, Light Truck and UtilityVehicle Manufacturing",,M_FRED_PCU336110336110
+M_PCU336412336412,Producer Price Index by Industry: Aircraft Engine and Engine PartsManufacturing,,M_FRED_PCU336412336412
+M_PCU336413336413,Producer Price Index by Industry: Other Aircraft Parts and EquipmentManufacturing,,M_FRED_PCU336413336413
+M_PCU441110441110,Producer Price Index by Industry: New Car Dealers,,M_FRED_PCU441110441110
+M_PCU44414441,Producer Price Index by Industry: Building Material and SuppliesDealers,,M_FRED_PCU44414441
+M_PCU445110445110,Producer Price Index by Industry: Supermarkets and Other GroceryStores,,M_FRED_PCU445110445110
+M_PCU481111481111,Producer Price Index by Industry: Scheduled Passenger AirTransportation,,M_FRED_PCU481111481111
+M_PCU481481,Producer Price Index by Industry: Air Transportation,,M_FRED_PCU481481
+M_PCU482111482111,Producer Price Index by Industry: Line-Haul Railroads,,M_FRED_PCU482111482111
+M_PCU483111483111,Producer Price Index by Industry: Deep Sea Freight Transportation,,M_FRED_PCU483111483111
+M_PCU484121484121,"Producer Price Index by Industry: General Freight Trucking,Long-Distance Truckload",,M_FRED_PCU484121484121
+M_PCU4841214841212,"Producer Price Index by Industry: General Freight Trucking,Long-Distance Truckload: General Freight Trucking, Long-Distance,",,M_FRED_PCU4841214841212
+M_PCU484484,Producer Price Index by Industry: Truck Transportation,,M_FRED_PCU484484
+M_PCU532412532412,Producer Price Index by Industry: Other Heavy Machinery Rental andLeasing,,M_FRED_PCU532412532412
+M_PCU622110622110,Producer Price Index by Industry: General Medical and SurgicalHospitals,,M_FRED_PCU622110622110
+M_PCUARETTRARETTR,Producer Price Index by Industry: Total Retail Trade Industries,,M_FRED_PCUARETTRARETTR
+M_PCUATRNWRATRNWR,Producer Price Index by Industry: Transportation and WarehousingIndustries,,M_FRED_PCUATRNWRATRNWR
+M_PCUAWHLTRAWHLTR,Producer Price Index by Industry: Total Wholesale Trade Industries,,M_FRED_PCUAWHLTRAWHLTR
+M_PCUOMFGOMFG,Producer Price Index by Industry: Total Manufacturing Industries,,M_FRED_PCUOMFGOMFG
+M_PERMITNSA,New Privately-Owned Housing Units Authorized in Permit-Issuing Places:Total Units,,M_FRED_PERMITNSA
+M_POPTHM,Population,,M_FRED_POPTHM
+M_PPIACO,Producer Price Index by Commodity: All Commodities,,M_FRED_PPIACO
+M_PPICOR,Producer Price Index by Commodity: Final Demand: Final Demand LessFoods and Energy,,M_FRED_PPICOR
+M_PPIFDC,Producer Price Index by Commodity: Final Demand: Final DemandConstruction,,M_FRED_PPIFDC
+M_PPIFDE,Producer Price Index by Commodity: Final Demand: Final Demand Energy,,M_FRED_PPIFDE
+M_PPIFDF,Producer Price Index by Commodity: Final Demand: Final Demand Foods,,M_FRED_PPIFDF
+M_PPIFDG,Producer Price Index by Commodity: Final Demand: Final Demand Goods,,M_FRED_PPIFDG
+M_PPIFDS,Producer Price Index by Commodity: Final Demand: Final Demand Services,,M_FRED_PPIFDS
+M_PPIFID,Producer Price Index by Commodity: Final Demand,,M_FRED_PPIFID
+M_PPIIDC,Producer Price Index by Commodity: Industrial Commodities,,M_FRED_PPIIDC
+M_REAINTRATREARAT10Y,10-Year Real Interest Rate,,M_FRED_REAINTRATREARAT10Y
+M_REAINTRATREARAT1YE,1-Year Real Interest Rate,,M_FRED_REAINTRATREARAT1YE
+M_RECPROUSM156N,Smoothed U.S. Recession Probabilities,,M_FRED_RECPROUSM156N
+M_REVOLNS,Revolving Consumer Credit Owned and Securitized,,M_FRED_REVOLNS
+M_RMFNS,Retail Money Market Funds,,M_FRED_RMFNS
+M_RSAFSNA,Advance Retail Sales: Retail Trade and Food Services,,M_FRED_RSAFSNA
+M_RSXFSN,Advance Retail Sales: Retail Trade,,M_FRED_RSXFSN
+M_SNBMONTBASE,Swiss Monetary Base Aggregate,,M_FRED_SNBMONTBASE
+M_SPCS20RNSA,S&P/Case-Shiller 20-City Composite Home Price Index,,M_FRED_SPCS20RNSA
+M_SUUR0000SA0,Chained Consumer Price Index for All Urban Consumers: All Items inU.S. City Average,,M_FRED_SUUR0000SA0
+M_T10Y2YM,10-Year Treasury Constant Maturity Minus 2-Year Treasury ConstantMaturity,,M_FRED_T10Y2YM
+M_T10Y3MM,10-Year Treasury Constant Maturity Minus 3-Month Treasury ConstantMaturity,,M_FRED_T10Y3MM
+M_T10YFFM,10-Year Treasury Constant Maturity Minus Federal Funds Rate,,M_FRED_T10YFFM
+M_T10YIEM,10-Year Breakeven Inflation Rate,,M_FRED_T10YIEM
+M_T30YIEM,30-year Breakeven Inflation Rate,,M_FRED_T30YIEM
+M_T5YIEM,5-Year Breakeven Inflation Rate,,M_FRED_T5YIEM
+M_T5YIFRM,"5-Year, 5-Year Forward Inflation Expectation Rate",,M_FRED_T5YIFRM
+M_TB1YR,"1-Year Treasury Bill Secondary Market Rate, Discount Basis",,M_FRED_TB1YR
+M_TB3MS,"3-Month Treasury Bill Secondary Market Rate, Discount Basis",,M_FRED_TB3MS
+M_TB4WK,"4-Week Treasury Bill Secondary Market Rate, Discount Basis",,M_FRED_TB4WK
+M_TB6MS,"6-Month Treasury Bill Secondary Market Rate, Discount Basis",,M_FRED_TB6MS
+M_TEMPHELPN,"All Employees, Temporary Help Services",,M_FRED_TEMPHELPN
+M_TLAACBM027NBOG,"Total Assets, All Commercial Banks",,M_FRED_TLAACBM027NBOG
+M_TLMFGCON,Total Construction Spending: Manufacturing in the United States,,M_FRED_TLMFGCON
+M_TLNRESCON,Total Construction Spending: Nonresidential in the United States,,M_FRED_TLNRESCON
+M_TMBACBM027NBOG,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), AllCommercial Banks",,M_FRED_TMBACBM027NBOG
+M_TOTALNS,Total Consumer Credit Owned and Securitized,,M_FRED_TOTALNS
+M_TOTALNSA,Total Vehicle Sales,,M_FRED_TOTALNSA
+M_TOTRESNS,Reserves of Depository Institutions: Total,,M_FRED_TOTRESNS
+M_TTLCON,Total Construction Spending: Total Construction in the United States,,M_FRED_TTLCON
+M_TWEXBGSMTH,Nominal Broad U.S. Dollar Index,,M_FRED_TWEXBGSMTH
+M_U6RATENSA,"Total Unemployed, Plus All Persons Marginally Attached to the LaborForce, Plus Total Employed Part Time for Economic Reasons, as a",,M_FRED_U6RATENSA
+M_UMCSENT,University of Michigan: Consumer Sentiment,,M_FRED_UMCSENT
+M_UMDMNO,Manufacturers' New Orders: Durable Goods,,M_FRED_UMDMNO
+M_UMTMNO,Manufacturers' New Orders: Total Manufacturing,,M_FRED_UMTMNO
+M_UMVPNO,Manufacturers' New Orders: Motor Vehicles and Parts,,M_FRED_UMVPNO
+M_UNDCONTNSA,New Privately-Owned Housing Units Under Construction: Total Units,,M_FRED_UNDCONTNSA
+M_UNRATENSA,Unemployment Rate,,M_FRED_UNRATENSA
+M_UNXANO,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,,M_FRED_UNXANO
+M_USACPIALLMINMEI,Consumer Price Index: All Items: Total for United States,,M_FRED_USACPIALLMINMEI
+M_USEPUINDXM,Economic Policy Uncertainty Index for United States,,M_FRED_USEPUINDXM
+M_USREC,NBER based Recession Indicators for the United States from the Periodfollowing the Peak through the Trough,,M_FRED_USREC
+M_WPU012,Producer Price Index by Commodity: Farm Products: Grains,,M_FRED_WPU012
+M_WPU0221,Producer Price Index by Commodity: Processed Foods and Feeds: Meats,,M_FRED_WPU0221
+M_WPU0561,Producer Price Index by Commodity: Fuels and Related Products andPower: Crude Petroleum (Domestic Production),,M_FRED_WPU0561
+M_WPU0571,Producer Price Index by Commodity: Fuels and Related Products andPower: Gasoline,,M_FRED_WPU0571
+M_WPU057303,Producer Price Index by Commodity: Fuels and Related Products andPower: No. 2 Diesel Fuel,,M_FRED_WPU057303
+M_WPU05730302,Producer Price Index by Commodity: Fuels and Related Products andPower: No. 2 Diesel Fuel,,M_FRED_WPU05730302
+M_WPU061,Producer Price Index by Commodity: Chemicals and Allied Products:Industrial Chemicals,,M_FRED_WPU061
+M_WPU0638,Producer Price Index by Commodity: Chemicals and Allied Products:Pharmaceutical Preparations,,M_FRED_WPU0638
+M_WPU0711,"Producer Price Index by Commodity: Rubber and Plastic Products:Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and",,M_FRED_WPU0711
+M_WPU08,Producer Price Index by Commodity: Lumber and Wood Products,,M_FRED_WPU08
+M_WPU081,Producer Price Index by Commodity: Lumber and Wood Products: Lumber,,M_FRED_WPU081
+M_WPU083,Producer Price Index by Commodity: Lumber and Wood Products: Plywood,,M_FRED_WPU083
+M_WPU0911,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products:Wood Pulp",,M_FRED_WPU0911
+M_WPU091105,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products:Wood Pulp",,M_FRED_WPU091105
+M_WPU091405,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products:Corrugated Paperboard in Sheets and Rolls, Lined and Unlined",,M_FRED_WPU091405
+M_WPU10,Producer Price Index by Commodity: Metals and Metal Products,,M_FRED_WPU10
+M_WPU101,Producer Price Index by Commodity: Metals and Metal Products: Iron andSteel,,M_FRED_WPU101
+M_WPU101211,Producer Price Index by Commodity: Metals and Metal Products: CarbonSteel Scrap,,M_FRED_WPU101211
+M_WPU1017,Producer Price Index by Commodity: Metals and Metal Products: SteelMill Products,,M_FRED_WPU1017
+M_WPU10170502,"Producer Price Index by Commodity: Metals and Metal Products: SteelWire, Stainless Steel",,M_FRED_WPU10170502
+M_WPU101707,Producer Price Index by Commodity: Metals and Metal Products: ColdRolled Steel Sheet and Strip,,M_FRED_WPU101707
+M_WPU1411,Producer Price Index by Commodity: Transportation Equipment: MotorVehicles,,M_FRED_WPU1411
+M_WPU43,Producer Price Index by Commodity: Real Estate Services (Partial),,M_FRED_WPU43
+M_WPU4511,Producer Price Index by Commodity: Professional Services (Partial):Legal Services,,M_FRED_WPU4511
+M_WPU5111,Producer Price Index by Commodity: Health Care Services: OutpatientCare (Partial),,M_FRED_WPU5111
+M_WPU5121,Producer Price Index by Commodity: Health Care Services: InpatientCare,,M_FRED_WPU5121
+M_WPU571,Producer Price Index by Commodity: Wholesale Trade Services: Machineryand Equipment and Parts and Supplies Wholesaling,,M_FRED_WPU571
+M_WPU5831,"Producer Price Index by Commodity: Retail Trade Services: Apparel,Jewelry, Footwear, and Accessories Retailing",,M_FRED_WPU5831
+M_WPUFD4111,Producer Price Index by Commodity: Final Demand: Finished ConsumerFoods,,M_FRED_WPUFD4111
+M_WPUFD4131,Producer Price Index by Commodity: Final Demand: Finished Goods LessFoods and Energy,,M_FRED_WPUFD4131
+M_WPUFD49116,"Producer Price Index by Commodity: Final Demand: Final Demand LessFoods, Energy, and Trade Services",,M_FRED_WPUFD49116
+M_WPUID61,Producer Price Index by Commodity: Intermediate Demand by CommodityType: Processed Goods for Intermediate Demand,,M_FRED_WPUID61
+M_WPUSI012011,Producer Price Index by Commodity: Special Indexes: ConstructionMaterials,,M_FRED_WPUSI012011
+M_WTISPLC,Spot Crude Oil Price: West Texas Intermediate (WTI),,M_FRED_WTISPLC
+Q_IR3TCD01USQ156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Certificates ofDeposit: Total for United States,,Q_FRED_IR3TCD01USQ156N
+Q_IR3TED01USQ156N,Interest Rates: 3-Month or 90-Day Rates and Yields: EurodollarDeposits: Total for United States,,Q_FRED_IR3TED01USQ156N
+Q_IR3TIB01USQ156N,Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates:Total for United States,,Q_FRED_IR3TIB01USQ156N
+Q_IRLTCT01USQ156N,Interest Rates: Long-Term Government Bond Yields: Combined Terms:Total for United States,,Q_FRED_IRLTCT01USQ156N
+Q_IRLTLT01USQ156N,Interest Rates: Long-Term Government Bond Yields: 10-Year: Main(Including Benchmark) for United States,,Q_FRED_IRLTLT01USQ156N
+Q_IRSTCI01USQ156N,Interest Rates: Immediate Rates (< 24 Hours): Call Money/InterbankRate: Total for United States,,Q_FRED_IRSTCI01USQ156N
+Q_IRSTFR01USQ156N,Interest Rates: Immediate Rates (< 24 Hours): Federal Funds Rate:Total for United States,,Q_FRED_IRSTFR01USQ156N
+Q_IRSTPI01USQ156N,Interest Rates: Immediate Rates (< 24 Hours): Prime Rates: Total forUnited States,,Q_FRED_IRSTPI01USQ156N
+Q_LCEAMN01USQ661N,Labor Compensation: Earnings: Manufacturing: Hourly for United States,,Q_FRED_LCEAMN01USQ661N
+Q_LFAC24TTUSQ647N,Active Population: Aged 15-24: All Persons for United States,,Q_FRED_LFAC24TTUSQ647N
+Q_LFAC25TTUSQ647N,Active Population: Aged 25-54: All Persons for United States,,Q_FRED_LFAC25TTUSQ647N
+Q_LFAC55TTUSQ647N,Active Population: Aged 55-64: All Persons for United States,,Q_FRED_LFAC55TTUSQ647N
+Q_LFAC64TTUSQ647N,Active Population: Aged 15-64: All Persons for United States,,Q_FRED_LFAC64TTUSQ647N
+Q_LFAC74TTUSQ647N,Active Population: Aged 15-74: All Persons for United States,,Q_FRED_LFAC74TTUSQ647N
+Q_LFACTTTTUSQ647N,Active Population: Aged 15 and over: All Persons for United States,,Q_FRED_LFACTTTTUSQ647N
+Q_LFEAAGTTUSQ647N,Employment by Economic Activity: Agriculture: All Persons for UnitedStates,,Q_FRED_LFEAAGTTUSQ647N
+Q_LFEACNTTUSQ647N,Employment by Economic Activity: Construction: All Persons for UnitedStates,,Q_FRED_LFEACNTTUSQ647N
+Q_LFEAICTTUSQ647N,Employment by Economic Activity: Industry Including Construction: AllPersons for United States,,Q_FRED_LFEAICTTUSQ647N
+Q_LFEAINTTUSQ647N,Employment by Economic Activity: Industry Excluding Construction: AllPersons for United States,,Q_FRED_LFEAINTTUSQ647N
+Q_LFEAMNTTUSQ647N,Employment by Economic Activity: Manufacturing: All Persons for UnitedStates,,Q_FRED_LFEAMNTTUSQ647N
+Q_LFEASETTUSQ647N,Employment by Economic Activity: Services: All Persons for UnitedStates,,Q_FRED_LFEASETTUSQ647N
+Q_LFEM25TTUSQ647N,Employed Population: Aged 25-54: All Persons for United States,,Q_FRED_LFEM25TTUSQ647N
+Q_LFEM55TTUSQ647N,Employed Population: Aged 55-64: All Persons for United States,,Q_FRED_LFEM55TTUSQ647N
+Q_LFEM74TTUSQ647N,Employed Population: Aged 15-74: All Persons for United States,,Q_FRED_LFEM74TTUSQ647N
+Q_LFEMTTTTUSQ647N,Employed Population: Aged 15 and over: All Persons for United States,,Q_FRED_LFEMTTTTUSQ647N
+Q_LFESEETTUSQ647N,Employment by Professional Status: Employees: Total for United States,,Q_FRED_LFESEETTUSQ647N
+Q_LFUN24TTUSQ647N,Unemployed Population: Aged 15-24: Total for United States,,Q_FRED_LFUN24TTUSQ647N
+Q_LFUN25TTUSQ647N,Unemployed Population: Aged 25-54: Total for United States,,Q_FRED_LFUN25TTUSQ647N
+Q_LFUN55TTUSQ647N,Unemployed Population: Aged 55-64: All Persons for United States,,Q_FRED_LFUN55TTUSQ647N
+Q_LFUN64TTUSQ647N,Unemployed Population: Aged 15-64: All Persons for United States,,Q_FRED_LFUN64TTUSQ647N
+Q_LFUN74TTUSQ647N,Unemployed Population: Aged 15-74: All Persons for United States,,Q_FRED_LFUN74TTUSQ647N
+Q_LFUNTTTTUSQ647N,Unemployed Population: Aged 15 and over: All Persons for United States,,Q_FRED_LFUNTTTTUSQ647N
+Q_LFWA24TTUSQ647N,Working Age Population: Aged 15-24: All Persons for United States,,Q_FRED_LFWA24TTUSQ647N
+Q_LFWA25TTUSQ647N,Working Age Population: Aged 25-54: All Persons for United States,,Q_FRED_LFWA25TTUSQ647N
+Q_LFWA55TTUSQ647N,Working Age Population: Aged 55-64: All Persons for United States,,Q_FRED_LFWA55TTUSQ647N
+Q_LFWA64TTUSQ647N,Working Age Population: Aged 15-64: All Persons for United States,,Q_FRED_LFWA64TTUSQ647N
+Q_LFWA74TTUSQ647N,Working Age Population: Aged 15-74: All Persons for United States,,Q_FRED_LFWA74TTUSQ647N
+Q_LFWATTTTUSQ647N,Working Age Population: Aged 15 and over: All Persons for UnitedStates,,Q_FRED_LFWATTTTUSQ647N
+Q_LMJVPBUVUSQ175N,Other Labor Market Measures: Job Vacancies: Public Sector: UnfilledVacancies (Stock) for United States,,Q_FRED_LMJVPBUVUSQ175N
+Q_LMJVPRUVUSQ175N,Other Labor Market Measures: Job Vacancies: Private Sector: UnfilledVacancies (Stock) for United States,,Q_FRED_LMJVPRUVUSQ175N
+Q_LMJVTTUVUSQ647N,Other Labor Market Measures: Job Vacancies: Total: Unfilled Vacancies(Stock) for United States,,Q_FRED_LMJVTTUVUSQ647N
+Q_LRAC24TTUSQ156N,Activity Rate: Aged 15-24: All Persons for United States,,Q_FRED_LRAC24TTUSQ156N
+Q_LRAC25TTUSQ156N,Activity Rate: Aged 25-54: All Persons for United States,,Q_FRED_LRAC25TTUSQ156N
+Q_LRAC55TTUSQ156N,Activity Rate: Aged 55-64: All Persons for United States,,Q_FRED_LRAC55TTUSQ156N
+Q_LRAC64TTUSQ156N,Activity Rate: Aged 15-64: All Persons for United States,,Q_FRED_LRAC64TTUSQ156N
+Q_LRAC74TTUSQ156N,Activity Rate: Aged 15-74: All Persons for United States,,Q_FRED_LRAC74TTUSQ156N
+Q_LRACTTTTUSQ156N,Activity Rate: Aged 15 and over: All Persons for United States,,Q_FRED_LRACTTTTUSQ156N
+Q_LREM24TTUSQ156N,Employment Rate: Aged 15-24: All Persons for United States,,Q_FRED_LREM24TTUSQ156N
+Q_LREM25TTUSQ156N,Employment Rate: Aged 25-54: All Persons for United States,,Q_FRED_LREM25TTUSQ156N
+Q_LREM55TTUSQ156N,Employment Rate: Aged 55-64: All Persons for United States,,Q_FRED_LREM55TTUSQ156N
+Q_LREM64TTUSQ156N,Employment Rate: Aged 15-64: All Persons for United States,,Q_FRED_LREM64TTUSQ156N
+Q_LREM74TTUSQ156N,Employment Rate: Aged 15-74: All Persons for United States,,Q_FRED_LREM74TTUSQ156N
+Q_LREMTTTTUSQ156N,Employment Rate: Aged 15 and over: All Persons for United States,,Q_FRED_LREMTTTTUSQ156N
+Q_LRUN24TTUSQ156N,Unemployment Rate: Aged 15-24: All Persons for United States,,Q_FRED_LRUN24TTUSQ156N
+Q_LRUN25TTUSQ156N,Unemployment Rate: Aged 25-54: All Persons for United States,,Q_FRED_LRUN25TTUSQ156N
+Q_LRUN55TTUSQ156N,Unemployment Rate: Aged 55-64: All Persons for United States,,Q_FRED_LRUN55TTUSQ156N
+Q_LRUN64TTUSQ156N,Unemployment Rate: Aged 15-64: All Persons for United States,,Q_FRED_LRUN64TTUSQ156N
+Q_LRUN74TTUSQ156N,Unemployment Rate: Aged 15-74: All Persons for United States,,Q_FRED_LRUN74TTUSQ156N
+Q_LRUNTTTTUSQ156N,Unemployment Rate: Aged 15 and over: All Persons for United States,,Q_FRED_LRUNTTTTUSQ156N
+Q_MANMM101USQ189N,Monetary Aggregates and Their Components: Narrow Money and Components:M1 and Components: M1 for United States,,Q_FRED_MANMM101USQ189N
+Q_ODMNTO02USQ470N,Orders: Manufacturing: Total Orders: Value for United States,,Q_FRED_ODMNTO02USQ470N
+Q_PIEAEN01USQ661N,Producer Prices Index: Economic Activities: Energy: Total for UnitedStates,,Q_FRED_PIEAEN01USQ661N
+Q_PIEAFD01USQ661N,Producer Prices Index: Economic Activities: Manufacture of FoodProducts: Total for United States,,Q_FRED_PIEAFD01USQ661N
+Q_PIEAMI01USQ661N,Producer Prices Index: Economic Activities: Mining and QuarryingActivities: Total for United States,,Q_FRED_PIEAMI01USQ661N
+Q_PIEAMP01USQ661N,Producer Prices Index: Economic Activities: Manufacturing: Total forUnited States,,Q_FRED_PIEAMP01USQ661N
+Q_PISPFG01USQ661N,Producer Prices Index: Stage of Processing: Finished Goods: Total forUnited States,,Q_FRED_PISPFG01USQ661N
+Q_PISPIG01USQ661N,Producer Prices Index: Stage of Processing: Intermediate Goods: Totalfor United States,,Q_FRED_PISPIG01USQ661N
+Q_PISPPR01USQ661N,Producer Prices Index: Stage of Processing: Primary Products: Totalfor United States,,Q_FRED_PISPPR01USQ661N
+Q_PITGCD01USQ661N,Producer Prices Index: Type of Goods: Durable Consumer Goods: Totalfor United States,,Q_FRED_PITGCD01USQ661N
+Q_PITGCG01USQ661N,Producer Prices Index: Type of Goods: Consumer Goods: Total for UnitedStates,,Q_FRED_PITGCG01USQ661N
+Q_PITGIG01USQ661N,Producer Prices Index: Type of Goods: Intermediate Goods: Total forUnited States,,Q_FRED_PITGIG01USQ661N
+Q_PITGND01USQ661N,Producer Prices Index: Type of Goods: Non-Durable Consumer Goods:Total for United States,,Q_FRED_PITGND01USQ661N
+Q_PITGVG01USQ661N,Producer Prices Index: Type of Goods: Investments Goods: Total forUnited States,,Q_FRED_PITGVG01USQ661N
+Q_PRINTO01USQ661N,Production: Industry: Total Industry Excluding Construction for UnitedStates,,Q_FRED_PRINTO01USQ661N
+Q_PRMNCG01USQ661N,Production: Manufacturing: Consumer Goods: Total for United States,,Q_FRED_PRMNCG01USQ661N
+Q_PRMNIG01USQ661N,Production: Manufacturing: Intermediate Goods: Total for United States,,Q_FRED_PRMNIG01USQ661N
+Q_PRMNTO01USQ661N,Production: Manufacturing: Total Manufacturing for United States,,Q_FRED_PRMNTO01USQ661N
+Q_SLMNTO02USQ189N,Sales: Manufacturing: Total Manufacturing: Value for United States,,Q_FRED_SLMNTO02USQ189N
+Q_SLRTTO02USQ189N,Sales: Retail Trade: Total Retail Trade: Value for United States,,Q_FRED_SLRTTO02USQ189N
+Q_SLWHTO02USQ189N,Sales: Wholesale Trade: Total Wholesale Trade: Value for United States,,Q_FRED_SLWHTO02USQ189N
+Q_SPASTT01USQ661N,Share Prices: All Shares/Broad: Total for United States,,Q_FRED_SPASTT01USQ661N
+Q_STMNIS01USQ163N,Short Term Statistics: Stocks: Manufacturing: Inventories toShipments: Total for United States,,Q_FRED_STMNIS01USQ163N
+Q_USAPPDMQINMEI,Producer Prices Index: Economic Activities: Manufacturing: Domesticfor United States,,Q_FRED_USAPPDMQINMEI
+Q_WSCNDW01USQ470N,Work Started: Construction: Dwellings and Residential Buildings: Totalfor United States,,Q_FRED_WSCNDW01USQ470N
+Q_XTEXVA01USQ664N,International Trade: Exports: Value (Goods): Total for United States,,Q_FRED_XTEXVA01USQ664N
+Q_XTIMVA01USQ664N,International Trade: Imports: Value (Goods): Total for United States,,Q_FRED_XTIMVA01USQ664N
+Q_XTNTVA01USQ664N,International Trade: Net Trade: Value (Goods): Total for United States,,Q_FRED_XTNTVA01USQ664N
+Q_GDP,Gross Domestic Product (Seasonally Adjusted),,
