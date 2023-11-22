@@ -3,6 +3,7 @@ import pandas as pd
 import datetime
 import joblib
 import altair as alt
+import matplotlib.pyplot as plt
 
 
 def load_data():
@@ -98,7 +99,6 @@ with st.sidebar:
 
     button = st.button(label='Run models')
 
-button = True
 if button:
     chunk = select_data_chunk(start=dates[0], end=dates[1])
 
@@ -106,18 +106,32 @@ if button:
     target = chunk.loc[:, ['crypto_market']]
 
     avail_models = load_models() # dict {key: model}
-    
+
+    y_predictions = []
+
+    y_predictions.append(target['crypto_market'].to_list())
     if 'Random Forest' in select_models:
         predictions = run_random_forest(
                         model=avail_models['random_forest'],
                         feature_cols=features,
                         last_price=float(target.iloc[0].values))
 
+        y_predictions.append(list(predictions))
 
     if 'Xgboost' in select_models:
         predictions = run_xgboost(
                         model=avail_models['xgboost'],
                         feature_cols=features,
                         last_price=float(target.iloc[0].values))
+        y_predictions.append(list(predictions))
+
+    fig, ax = plt.subplots(figsize=(10,6))    
+    for idx, line in enumerate(y_predictions):
+        ax.plot(target.index, y_predictions[idx])
         
-        
+    ax.set_xlabel('Date')
+    ax.set_ylabel('Value')
+    ax.set_title('Multiline Chart')
+    ax.legend()
+
+    st.pyplot(fig)
