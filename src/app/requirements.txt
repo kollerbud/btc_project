@@ -1,0 +1,5 @@
+matplotlib==3.8.2
+pip-chill==1.0.3
+scikit-learn==1.2.2
+streamlit==1.28.2
+xgboost==2.0.2
