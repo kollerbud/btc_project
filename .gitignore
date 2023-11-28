@@ -35,7 +35,6 @@ run_info
 # custom
 .vscode/
 *.cfg
-*.csv
 *.xlsx
 *.joblib
 cloud-sql-proxy

@@ -1,9 +1,11 @@
 import streamlit as st
+import warnings
+warnings.simplefilter(action='ignore')
 import pandas as pd
 import datetime
 import joblib
-import altair as alt
 import matplotlib.pyplot as plt
+
 
 
 def load_data():
@@ -29,15 +31,18 @@ def load_data():
     df_combine = df_combine.loc[:, ~(df_combine.columns.isin(obj_col))]
 
     df_combine = df_combine.reset_index(drop=True).set_index('DATE')
+    
+    df_interaction = df_combine.assign(**{f"{col}_int": df_combine[col] * df_combine['Crypto_Trends'] for col in df_combine.columns})
 
-    return df_combine
+    return {'df_no_interact': df_combine, 
+            'df_interact':df_interaction}
 
 def select_data_chunk(start: str, end: str):
     # change to pandas datetime type
     _start = pd.to_datetime(start)
     _end = pd.to_datetime(end)
     # load entire dataset
-    df = load_data()
+    df = load_data()['df_no_interact']
     # slicing to between two dates
     df_chunk = df.loc[(df.index>=_start) & (df.index<=_end)]
 
@@ -81,6 +86,14 @@ def run_xgboost(model, feature_cols, last_price):
 
     return inv_pred
 
+def run_svm():
+    ...
+
+def run_knn():
+    ...
+
+def run_linear_regression():
+    ...
 
 with st.sidebar:
 
@@ -88,16 +101,21 @@ with st.sidebar:
                           min_value=datetime.date(2017,2,28),
                           max_value=datetime.date(2023,9,30),
                           value=[datetime.date(2017,2,28),
-                                 datetime.date(2017,3,31)]
+                                 datetime.date(2023,9,30)]
                         ) # return two dates: (datetime.date(2017, 2, 28), datetime.date(2017, 3, 31))
 
     select_models = st.multiselect(
         label='Select Model(s) to use',
-        options=['Linear Regression', 'SVM', 'Random Forest', 'Xgboost', 'etc..'],
-        default=['Random Forest']
-    ) # return list of keywords ['Random Forest']
+        options=['OLS-Interaction', 'OLS-No_Interaction',
+                 'SVR-Interaction', 'SVR-No_Interaction', 
+                 'KNN-Interaction', 'KNN-No_Interaction',
+                 'Random Forest', 'Xgboost'],
+        default=['Random Forest', 'Xgboost']
+    )
 
     button = st.button(label='Run models')
+
+button=True
 
 if button:
     chunk = select_data_chunk(start=dates[0], end=dates[1])
@@ -105,33 +123,33 @@ if button:
     features = chunk.loc[:, ~(chunk.columns.isin(['crypto_market']))]
     target = chunk.loc[:, ['crypto_market']]
 
-    avail_models = load_models() # dict {key: model}
+    avail_models = load_models()
 
-    y_predictions = []
-
-    y_predictions.append(target['crypto_market'].to_list())
     if 'Random Forest' in select_models:
         predictions = run_random_forest(
                         model=avail_models['random_forest'],
                         feature_cols=features,
-                        last_price=float(target.iloc[0].values))
+                        last_price=float(target.iloc[0,0]))
 
-        y_predictions.append(list(predictions))
+        target['random_forest'] = predictions
 
     if 'Xgboost' in select_models:
         predictions = run_xgboost(
                         model=avail_models['xgboost'],
                         feature_cols=features,
-                        last_price=float(target.iloc[0].values))
-        y_predictions.append(list(predictions))
+                        last_price=float(target.iloc[0,0]))
 
-    fig, ax = plt.subplots(figsize=(10,6))    
-    for idx, line in enumerate(y_predictions):
-        ax.plot(target.index, y_predictions[idx])
-        
+        target['xgboost'] = predictions
+
+    target.to_csv('predictions.csv')
+    st.title('Selected Model Predictions vs Actual Price') 
+    fig, ax = plt.subplots(figsize=(10,6))
+    for model in target:
+        ax.plot(target.index, target[model], label=model)
+
     ax.set_xlabel('Date')
-    ax.set_ylabel('Value')
-    ax.set_title('Multiline Chart')
-    ax.legend()
+    ax.set_ylabel('Price')
+    ax.legend(loc='best')
 
     st.pyplot(fig)
+
