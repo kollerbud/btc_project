@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 
 
 def load_data():
-    df_predictions = pd.read_csv('predictions.csv', index_col=['DATE'], parse_dates=['DATE'])
-    df_features = pd.read_csv('features.csv')
+    df_predictions = pd.read_csv('https://raw.githubusercontent.com/kollerbud/btc_project/main/src/app/predictions.csv', index_col=['DATE'], parse_dates=['DATE'])
+    df_features = pd.read_csv('https://raw.githubusercontent.com/kollerbud/btc_project/main/src/app/features.csv')
 
     return (df_predictions, df_features)
 
@@ -31,7 +31,7 @@ with st.sidebar:
 
     button = st.button(label='Show predictions')
 
-button = True
+
 if button:
     # load data
     predict, features = load_data()
