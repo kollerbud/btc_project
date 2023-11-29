@@ -1,4 +1,4 @@
-﻿DATE,Crypto_Price,KNN_no interactions,OLS_no interactions,SVR_no interactions,LSTM_no interactions,Random Forest,Xgboost
+﻿DATE,Crypto_Price,KNN,OLS,SVR,LSTM,Random Forest,Xgboost
 2/28/2017,100,105.776,572.2741835,365.9284694,,104.4063,99.80897
 3/1/2017,102.93,102.404,621.9148029,141.4671808,,103.47,101.93652
 3/2/2017,108.62,104.714,558.7911327,163.1917794,,107.0743,108.60286
